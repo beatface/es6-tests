@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/beatface/es6-tests/issues"
   },
-  "homepage": "https://github.com/beatface/es6-tests#readme"
+  "homepage": "https://github.com/beatface/es6-tests#readme",
+  "keywords": "[]",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
 }

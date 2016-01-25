@@ -1,0 +1,22 @@
+{
+  "name": "es6-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatface/es6-tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatface/es6-tests/issues"
+  },
+  "homepage": "https://github.com/beatface/es6-tests#readme"
+}
